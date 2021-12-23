@@ -668,7 +668,7 @@ namespace codebar
             this.tableLayoutPanel14.ColumnCount = 3;
             this.tableLayoutPanel14.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 73.1405F));
             this.tableLayoutPanel14.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 26.8595F));
-            this.tableLayoutPanel14.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 204F));
+            this.tableLayoutPanel14.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 208F));
             this.tableLayoutPanel14.Controls.Add(this.checkBoxPreviewTab_ukp, 0, 4);
             this.tableLayoutPanel14.Controls.Add(this.dataGridView_uk, 0, 0);
             this.tableLayoutPanel14.Controls.Add(this.button_del_ukp, 2, 0);
@@ -720,7 +720,7 @@ namespace codebar
             this.dataGridView_uk.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView_uk.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.dataGridView_uk.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
-            this.dataGridView_uk.Size = new System.Drawing.Size(523, 280);
+            this.dataGridView_uk.Size = new System.Drawing.Size(520, 280);
             this.dataGridView_uk.TabIndex = 0;
             this.dataGridView_uk.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_uk_CellClick);
             this.dataGridView_uk.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_uk_CellEndEdit);
@@ -760,7 +760,7 @@ namespace codebar
             // button_del_ukp
             // 
             this.button_del_ukp.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button_del_ukp.Location = new System.Drawing.Point(726, 10);
+            this.button_del_ukp.Location = new System.Drawing.Point(722, 10);
             this.button_del_ukp.Name = "button_del_ukp";
             this.button_del_ukp.Size = new System.Drawing.Size(102, 30);
             this.button_del_ukp.TabIndex = 5;
@@ -770,7 +770,7 @@ namespace codebar
             // button_delall_ukp
             // 
             this.button_delall_ukp.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button_delall_ukp.Location = new System.Drawing.Point(726, 59);
+            this.button_delall_ukp.Location = new System.Drawing.Point(722, 59);
             this.button_delall_ukp.Name = "button_delall_ukp";
             this.button_delall_ukp.Size = new System.Drawing.Size(102, 31);
             this.button_delall_ukp.TabIndex = 6;
@@ -780,7 +780,7 @@ namespace codebar
             // print_button_ukp
             // 
             this.print_button_ukp.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.print_button_ukp.Location = new System.Drawing.Point(726, 220);
+            this.print_button_ukp.Location = new System.Drawing.Point(722, 220);
             this.print_button_ukp.Name = "print_button_ukp";
             this.print_button_ukp.Size = new System.Drawing.Size(102, 29);
             this.print_button_ukp.TabIndex = 7;
@@ -814,7 +814,7 @@ namespace codebar
             this.tableLayoutPanel6.ColumnCount = 3;
             this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 73.14F));
             this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 26.86F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 204F));
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 208F));
             this.tableLayoutPanel6.Controls.Add(this.dataGridView_in, 0, 0);
             this.tableLayoutPanel6.Controls.Add(this.checkBoxPreviewTab1, 1, 4);
             this.tableLayoutPanel6.Controls.Add(this.print_button_in, 2, 3);
@@ -856,7 +856,7 @@ namespace codebar
             this.dataGridView_in.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView_in.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.dataGridView_in.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
-            this.dataGridView_in.Size = new System.Drawing.Size(523, 280);
+            this.dataGridView_in.Size = new System.Drawing.Size(520, 280);
             this.dataGridView_in.TabIndex = 0;
             this.dataGridView_in.Text = "dataGridView1";
             this.dataGridView_in.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_in_CellClick);
@@ -900,7 +900,7 @@ namespace codebar
             // print_button_in
             // 
             this.print_button_in.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.print_button_in.Location = new System.Drawing.Point(726, 220);
+            this.print_button_in.Location = new System.Drawing.Point(722, 220);
             this.print_button_in.Name = "print_button_in";
             this.print_button_in.Size = new System.Drawing.Size(102, 29);
             this.print_button_in.TabIndex = 1;
@@ -910,7 +910,7 @@ namespace codebar
             // button_delall_in
             // 
             this.button_delall_in.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button_delall_in.Location = new System.Drawing.Point(726, 59);
+            this.button_delall_in.Location = new System.Drawing.Point(722, 59);
             this.button_delall_in.Name = "button_delall_in";
             this.button_delall_in.Size = new System.Drawing.Size(102, 31);
             this.button_delall_in.TabIndex = 5;
@@ -920,7 +920,7 @@ namespace codebar
             // button_del_in
             // 
             this.button_del_in.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button_del_in.Location = new System.Drawing.Point(726, 10);
+            this.button_del_in.Location = new System.Drawing.Point(722, 10);
             this.button_del_in.Name = "button_del_in";
             this.button_del_in.Size = new System.Drawing.Size(102, 30);
             this.button_del_in.TabIndex = 4;
@@ -972,7 +972,7 @@ namespace codebar
             this.tableLayoutPanel8.ColumnCount = 3;
             this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 84.26966F));
             this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15.73034F));
-            this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 178F));
+            this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 182F));
             this.tableLayoutPanel8.Controls.Add(this.label7, 0, 0);
             this.tableLayoutPanel8.Controls.Add(this.maskedTextBox4, 2, 1);
             this.tableLayoutPanel8.Controls.Add(this.label6, 0, 1);
@@ -1002,7 +1002,7 @@ namespace codebar
             // 
             this.maskedTextBox4.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.maskedTextBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.maskedTextBox4.Location = new System.Drawing.Point(752, 86);
+            this.maskedTextBox4.Location = new System.Drawing.Point(748, 86);
             this.maskedTextBox4.Mask = "000";
             this.maskedTextBox4.Name = "maskedTextBox4";
             this.maskedTextBox4.Size = new System.Drawing.Size(81, 22);
@@ -1024,7 +1024,7 @@ namespace codebar
             // 
             this.maskedTextBox5.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.maskedTextBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.maskedTextBox5.Location = new System.Drawing.Point(752, 19);
+            this.maskedTextBox5.Location = new System.Drawing.Point(748, 19);
             this.maskedTextBox5.Mask = "00000000000";
             this.maskedTextBox5.Name = "maskedTextBox5";
             this.maskedTextBox5.Size = new System.Drawing.Size(81, 22);
@@ -1405,7 +1405,7 @@ namespace codebar
             this.tableLayoutPanel16.ColumnCount = 3;
             this.tableLayoutPanel16.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 84.27F));
             this.tableLayoutPanel16.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15.73F));
-            this.tableLayoutPanel16.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 178F));
+            this.tableLayoutPanel16.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 182F));
             this.tableLayoutPanel16.Controls.Add(this.label9, 0, 0);
             this.tableLayoutPanel16.Controls.Add(this.label10, 0, 1);
             this.tableLayoutPanel16.Controls.Add(this.maskedTextBox1_DIS, 2, 0);
@@ -1445,7 +1445,7 @@ namespace codebar
             // 
             this.maskedTextBox1_DIS.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.maskedTextBox1_DIS.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.maskedTextBox1_DIS.Location = new System.Drawing.Point(562, 14);
+            this.maskedTextBox1_DIS.Location = new System.Drawing.Point(558, 14);
             this.maskedTextBox1_DIS.Mask = "00000000000";
             this.maskedTextBox1_DIS.Name = "maskedTextBox1_DIS";
             this.maskedTextBox1_DIS.Size = new System.Drawing.Size(81, 22);
@@ -1456,7 +1456,7 @@ namespace codebar
             // 
             this.maskedTextBox2_DIS.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.maskedTextBox2_DIS.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.maskedTextBox2_DIS.Location = new System.Drawing.Point(562, 72);
+            this.maskedTextBox2_DIS.Location = new System.Drawing.Point(558, 72);
             this.maskedTextBox2_DIS.Mask = "000";
             this.maskedTextBox2_DIS.Name = "maskedTextBox2_DIS";
             this.maskedTextBox2_DIS.Size = new System.Drawing.Size(81, 22);
@@ -1509,7 +1509,7 @@ namespace codebar
             this.tableLayoutPanel15.ColumnCount = 3;
             this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 73.14F));
             this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 26.86F));
-            this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 204F));
+            this.tableLayoutPanel15.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 208F));
             this.tableLayoutPanel15.Controls.Add(this.dataGridView_il, 0, 0);
             this.tableLayoutPanel15.Controls.Add(this.checkBoxPreviewTab_il, 1, 4);
             this.tableLayoutPanel15.Controls.Add(this.print_button_il, 2, 3);
@@ -1551,10 +1551,12 @@ namespace codebar
             this.dataGridView_il.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView_il.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.dataGridView_il.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
-            this.dataGridView_il.Size = new System.Drawing.Size(527, 286);
+            this.dataGridView_il.Size = new System.Drawing.Size(524, 286);
             this.dataGridView_il.TabIndex = 0;
             this.dataGridView_il.Text = "dataGridView1";
+            this.dataGridView_il.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_il_CellClick);
             this.dataGridView_il.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_il_CellContentClick);
+            this.dataGridView_il.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_il_CellEndEdit);
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -1594,7 +1596,7 @@ namespace codebar
             // print_button_il
             // 
             this.print_button_il.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.print_button_il.Location = new System.Drawing.Point(732, 226);
+            this.print_button_il.Location = new System.Drawing.Point(728, 226);
             this.print_button_il.Name = "print_button_il";
             this.print_button_il.Size = new System.Drawing.Size(102, 29);
             this.print_button_il.TabIndex = 1;
@@ -1604,7 +1606,7 @@ namespace codebar
             // button_delall_il
             // 
             this.button_delall_il.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button_delall_il.Location = new System.Drawing.Point(732, 59);
+            this.button_delall_il.Location = new System.Drawing.Point(728, 59);
             this.button_delall_il.Name = "button_delall_il";
             this.button_delall_il.Size = new System.Drawing.Size(102, 31);
             this.button_delall_il.TabIndex = 5;
@@ -1614,7 +1616,7 @@ namespace codebar
             // button_del_il
             // 
             this.button_del_il.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.button_del_il.Location = new System.Drawing.Point(732, 10);
+            this.button_del_il.Location = new System.Drawing.Point(728, 10);
             this.button_del_il.Name = "button_del_il";
             this.button_del_il.Size = new System.Drawing.Size(102, 30);
             this.button_del_il.TabIndex = 4;
@@ -1869,7 +1871,7 @@ namespace codebar
             this.Controls.Add(this.tableLayoutPanel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Штрих-коды 5.5   © Буталов Андрей, 2021";
+            this.Text = "Штрих-коды 5.6   © Буталов Андрей, 2021";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tabControl.ResumeLayout(false);
@@ -2659,6 +2661,39 @@ namespace codebar
                 return;
             ((DataGridView)sender).CurrentCell = ((DataGridView)sender).CurrentRow.Cells[1];
         }
+        // Завершение заполнения ячейки в таблице ввода Иностранная литература
+        private void dataGridView_il_CellEndEdit(object sender, DataGridViewCellEventArgs e)
+        {
+            try
+            {
+                Convert.ToInt64(((DataGridView)sender).SelectedCells[0].Value);
+            }
+            catch
+            {
+                ((DataGridView)sender).Rows.Remove(((DataGridView)sender).CurrentRow);
+            }
+            if ((long)Convert.ToString(((DataGridView)sender).SelectedCells[0].Value).Length > 11L)
+            {
+                ((DataGridView)sender).Rows.Remove(((DataGridView)sender).CurrentRow);
+                int num = (int)MessageBox.Show("Количество символов в строке не должно превышать одиннадцати!");
+            }
+            else if (e.RowIndex == 0)
+            {
+                ((DataGridView)sender).CurrentRow.Cells[0].Value = (object)1;
+            }
+            else
+            {
+                for (int rowIndex = e.RowIndex; rowIndex < ((DataGridView)sender).RowCount - 1; ++rowIndex)
+                    ((DataGridView)sender).Rows[rowIndex].Cells[0].Value = (object)(rowIndex + 1);
+            }
+        }
+        //  таблица ввода Иностранная литература - клик по ячейке
+        private void dataGridView_il_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.ColumnIndex != 0)
+                return;
+            ((DataGridView)sender).CurrentCell = ((DataGridView)sender).CurrentRow.Cells[1];
+        }
         // Завершение заполнения ячейки в таблице ввода Учетная карточка (повтор)
         private void dataGridView_uk_CellEndEdit(object sender, DataGridViewCellEventArgs e)
         {
@@ -3011,7 +3046,10 @@ namespace codebar
                             string right = str3.Substring(6);
                             string left = str3.Substring(0, 6);
                             barcodes_for_print[index] = convertToSymb(2, left, right, index);
-                            MessageBox.Show("str3.  (" + str3 + ") \n right.  (" + right + ") \n left.  (" + left + ") \n barcodes_for_print[index].  (" + this.barcodes_for_print[index].ToString() + ")");
+                            if (chB_debug.Checked)
+                            {
+                                MessageBox.Show("str3.  (" + str3 + ") \n right.  (" + right + ") \n left.  (" + left + ") \n barcodes_for_print[index].  (" + this.barcodes_for_print[index].ToString() + ")");
+                            }
                         }
                         BarcodePrintingParametres(int32, 2);
                         printCurrentTab(checkBoxPreviewTab2.Checked);
